@@ -1,0 +1,12 @@
+h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+h3{
+    text-transform: uppercase;
+}
+.carousel-caption h5{
+    font-size: 80px;
+    color: gold;
+    text-shadow: 2px 2px 2px black;
+}
